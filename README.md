@@ -1,2 +1,2 @@
-# freshersbatch-oct16
+# fresherbatch-oct16
 Push and commit command Practice
